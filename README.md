@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI developing , Data Science
 -----------------------------
 
-I'm Computer Engineering student at Chulalongkorn University. I've done some projects in data science and AI. My goal is to be top AI developer/Data scientist of the country.
+I'm Computer Engineering student at Chulalongkorn University. I've done some projects in data science and AI. My goal is to be a world class AI developer/Data scientist.
 
 ### Skills
 
