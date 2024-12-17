@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nanthapak Kwanmethakul - Pong
 =====================================================================================================================================================
 
-AI developer , Data Scientist
+AI development , Data Science
 -----------------------------
 
 I'm Computer Engineering student at Chulalongkorn University. I've done some Big project in data science and some side projects in AI.
