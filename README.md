@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 AI development , Data Science
 -----------------------------
 
-I'm Computer Engineering student at Chulalongkorn University. I've done some project in data science AI. Feel free to visit my projects in my repository and please read my README.
+I'm Computer Engineering student at Chulalongkorn University. I've done some projects in data science AI. Feel free to visit my projects in my repository and please read my README.
 
 ### Skills
 
