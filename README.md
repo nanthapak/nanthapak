@@ -4,7 +4,7 @@ Nanthapak Kwanmethakul - Pong
 AI development , Data Science
 -----------------------------
 
-I'm Computer Engineering student at Chulalongkorn University. I've done some projects in data science and AI. Feel free to visit my projects in my repository and please read my README.
+I'm Computer Engineering student at Chulalongkorn University. I've done some projects in data science and AI. Feel free to visit my projects in my repository.
 
 ### Skills
 
