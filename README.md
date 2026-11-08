@@ -1,20 +1,39 @@
-Nanthapak Kwanmethakul - Pong
-=====================================================================================================================================================
+# Hi, I'm Pong (Nanthapak Kwanmethakul) 👋
 
-AI development , Data Science
------------------------------
+**Computer Engineering student at Chulalongkorn University** who builds AI systems, data pipelines and back-end services that people actually use.
 
-I'm Computer Engineering student at Chulalongkorn University. I've done some projects in data science and AI. Feel free to visit my projects in my repository.
+- 🤖 Built and deployed an **LLM chatbot (Text-to-SQL)** now used by real users at CPF IT Center (Axons)
+- 🏦 Built **LLM document classification and RAG** systems at the Stock Exchange of Thailand (SET)
+- 🛰️ Payload software engineer on **CUSAT-1**, a CubeSat selected by UNOOSA and JAXA (KiboCUBE) for deployment from the ISS in 2028
+- 🏆 Solo finalist (top 30 of 512 teams), KBTG Kampus Hackathon 2026 · 3rd place, 25th National Software Contest (NSC)
+- 🎓 B.Eng. Computer Engineering and Digital Technology (CEDT) · GPAX 3.91/4.00 · Expected 2028
 
-### Skills
+---
 
+### 🔭 Featured projects
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+| Project | What it does | Stack |
+|---|---|---|
+| [**Echo: Payment Forecast**](https://github.com/nanthapak/echo-payment-forecast) | Shows the chance a payment leaves rent or bills unpaid before payday, using Monte Carlo cash-flow forecasts and a LightGBM warning model. Caught **81%** of shortfalls on 1M+ real bank transactions vs. 73% for a rule baseline. KBTG Hackathon Top 30 of 512, solo | Python, LightGBM, NumPy, pandas |
+| [**Algorithmic Stock Trading System**](https://github.com/nanthapak/Algorithmic_Stock_Trading_System) | Buy/Sell/Hold signals from 10 technical indicators, optimized with Differential Evolution. 3rd place at NSC, with a research paper | Python, scikit-learn, Streamlit |
+| [**AI-Generated Image Detection**](https://github.com/nanthapak/CNN_AI_image_detection) | CNN that tells real photos from AI-generated ones, reaching **94.8% test accuracy** on 20,000 images | PyTorch |
+| [**Business Bankruptcy Prediction**](https://github.com/nanthapak/Bussiness_Bankrupt_Prediction) | Predicts company bankruptcy from 95 financial ratios, with a focus on handling heavy class imbalance | scikit-learn, pandas |
+
+---
+
+### 🛠️ Tech stack
+
+**Languages:** Python · Go · Java · SQL · TypeScript · C/C++ · Verilog
+**AI / ML:** PyTorch · scikit-learn · LightGBM · YOLO · LangChain · RAG · Text-to-SQL
+**Back end & data:** FastAPI · Next.js · PostgreSQL · Redis · Kafka · Spark
+**Cloud & DevOps:** Docker · Kubernetes · Terraform · Prometheus · GCP (Cloud Run, GCS, Vertex AI) · Azure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,java,cpp,ts,pytorch,sklearn,fastapi,nextjs,postgres,redis,kafka,docker,kubernetes,terraform,prometheus,gcp,azure,linux,git" />
 </p>
 
+---
 
-### Socials
+### 📫 Contact
 
-<p align="left"> <a href="https://www.github.com/nanthapak" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
+📧 nanthapak109@gmail.com · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
