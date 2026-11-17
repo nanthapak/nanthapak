@@ -1,4 +1,4 @@
-# Hi, I'm Pong (Nanthapak Kwanmethakul) 👋
+# Hi, I'm Pong (Nanthapak Kwanmethakul) 
 
 **Computer Engineering student at Chulalongkorn University** who builds AI systems, data pipelines and back-end services that people actually use.
 
